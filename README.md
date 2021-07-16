@@ -2,6 +2,16 @@
 
 BMI Calculator is a cross platform application where people can check there BMI easily.
 
+## Screenshots
+
+<p align="center">
+  <img width="32%" src="screenshots/home.PNG?raw=true">
+  <img width="32%" src="screenshots/result.PNG?raw=true">
+  <img width="32%" src="screenshots/result_2.PNG?raw=true">
+  <img width="32%" src="screenshots/result_3.PNG?raw=true">
+
+</p>
+
 ## Plugins
 
 **Table of contents:**
